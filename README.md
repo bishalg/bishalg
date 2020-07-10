@@ -6,8 +6,6 @@ pubic static func aboutMe() {
 }
 ```
 
-Working from Home for last 4 Years.
-
 - iOS Developer - 2012 - 20202 (8 Years)
 - Product Engineer - 2016 - 2020 (4 Years)
 - .net Developer - 2008 - 2012 (4 Years)
