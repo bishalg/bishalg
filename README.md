@@ -6,10 +6,24 @@ pubic static func aboutMe() {
 }
 ```
 
+***
+
 - iOS Developer - 2012 - 20202 (8 Years)
 - Product Engineer - 2016 - 2020 (4 Years)
 - .net Developer - 2008 - 2012 (4 Years)
 
+***
+
+[![Stackoverflow Repo](https://img.shields.io/stackexchange/stackoverflow/r/1294448)]
+
+
+***
+
+- 🌏 Nepal 🇳🇵 
+
+***
+
+[![Build and Test](https://github.com/apple/swift-protobuf/workflows/Build%20and%20Test/badge.svg)](https://github.com/apple/swift-protobuf/actions?query=workflow%3A%22Build+and+Test%22)
 
 <!--
 **bishalg/bishalg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
