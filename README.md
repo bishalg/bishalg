@@ -8,8 +8,8 @@ pubic static func aboutMe() {
 
 ***
 
-- iOS Developer - 2012 - 2020 (8 Years)
-- Product Engineer - 2016 - 2020 (4 Years)
+- iOS Developer - 2012 - 2021 (9 Years)
+- Product Engineer - 2016 - 2021 (5 Years)
 - .net Developer - 2008 - 2012 (4 Years)
 
 ***
