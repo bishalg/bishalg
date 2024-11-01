@@ -7,9 +7,9 @@ pubic static func aboutMe() {
 ```
 
 ***
-
-- iOS Developer - 2012 - 2022 (10 Years)
-- Product Engineer - 2016 - 2022 (6 Years)
+- NLP, GenAI, LLM
+- Product Engineer - 2016 - 2024 (8 Years)
+- iOS Developer - 2012 - 2024 (12 Years)
 - .net Developer - 2008 - 2012 (4 Years)
 
 ***
